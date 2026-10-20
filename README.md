@@ -44,7 +44,7 @@ END
 
 ## My Workspace
 
-![My laboratory computer](images/my-pc.jpg)
+![My laboratory computer](images/my-pc.jpeg)
 
 ---
 
